@@ -1,0 +1,4 @@
+2023-11-08T07:31:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BaoCao\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-theme-tracking.php on line 57
+
+2023-11-08T07:36:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BaoCao\wp-includes\Requests\src\Transport\Curl.php on line 534
+
